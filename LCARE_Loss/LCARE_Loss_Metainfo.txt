@@ -1,0 +1,29 @@
+
+Name of Quantlet: LCARE_Loss
+
+Published in: LCARE
+
+Description: 'LCARE_Loss evaluates the loss function for data given
+a CARE parameter'
+
+Keywords:
+- risk management
+- estimation
+- parameter
+- loss-function
+- optimization
+
+See also: 
+- LCARE_Estimation
+
+Author: Andrija Mihoci, Xiu Xu
+
+Submitted:  Sat, November 07 2015 by Andrija Mihoci and Xiu Xu
+
+Datafile: -
+
+Input: -
+
+Output: -
+
+Example: Evaluated loss function of the CARE model
