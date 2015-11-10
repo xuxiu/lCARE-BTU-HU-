@@ -20,10 +20,4 @@ Author: Andrija Mihoci, Xiu Xu
 
 Submitted:  Sat, November 07 2015 by Andrija Mihoci and Xiu Xu
 
-Datafile: -
-
-Input: -
-
-Output: -
-
 Example: Evaluated loss function of the CARE model
