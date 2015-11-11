@@ -1,24 +1,21 @@
 
-Name of Quantlet: LCARE_Parameter_Dynamics_Quartiles
+Name of Quantlet: LCARE_Intervals
 
 Published in: LCARE
 
-Description: 'Pool the estimated parameters together based on CARE model, and
-show the descriptive statistics  first quartile (25% quantile), 
-mean value, third quartile (75% quantile))'
+Description: 'Generate analytical intervals for LCARE model'
 
 Keywords:
-- risk management
-- estimation
-- parameter
-- quantile
-- mean
+- simulation
+- time-series
+- decomposition
+- calibration,
+- basis
 
 See also: 
-- LCARE_Estimation_Rolling_001
-- LCARE_Estimation_Rolling_005
 
 Author: Andrija Mihoci, Xiu Xu
 
 Submitted:  Wen, November 11 2015 by Xiu Xu
+
 

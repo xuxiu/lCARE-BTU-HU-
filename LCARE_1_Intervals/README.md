@@ -1,25 +1,23 @@
 
 ![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **CARE_Parameter_Dynamics_Quartiles**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) ** LCARE_Intervals **
 
 
 ```yaml
 
-Name of QuantLet : LCARE_Parameter_Dynamics_Quartiles
+Name of QuantLet: LCARE_Intervals
 
-Published in : LCARE
+Published in: LCARE
 
-Description : 'Pools the estimated parameters together based on CARE model, and
-show the descriptive statistics  first quartile (25% quantile), 
-mean value, third quartile (75% quantile)).'
+Description: 'Generate analytical intervals for LCARE model'
 
-Keywords : 
-- risk management
-- estimation
-- parameter
-- quantile
-- mean
+Keywords:
+- simulation
+- time-series
+- decomposition
+- calibration,
+- basis
 
 Author : Andrija Mihoci, Xiu Xu
 
