@@ -29,7 +29,6 @@ Submitted:  Wen, November 11 2015 by Xiu Xu
 ```
 
 
-![Picture1]()
 
 
 ```R
