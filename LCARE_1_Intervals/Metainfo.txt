@@ -1,5 +1,5 @@
 
-Name of Quantlet: CARE_Parameter_Dynamics_Quartiles
+Name of Quantlet: LCARE_Parameter_Dynamics_Quartiles
 
 Published in: LCARE
 

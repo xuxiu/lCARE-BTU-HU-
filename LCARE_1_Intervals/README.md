@@ -6,9 +6,9 @@
 
 ```yaml
 
-Name of QuantLet : MSM_VaRandES
+Name of QuantLet : LCARE_Parameter_Dynamics_Quartiles
 
-Published in : MSM
+Published in : LCARE
 
 Description : 'Pools the estimated parameters together based on CARE model, and
 show the descriptive statistics  first quartile (25% quantile), 
@@ -26,8 +26,6 @@ Author : Andrija Mihoci, Xiu Xu
 Submitted : Wen, November 11 2015 by Xiu Xu
 ```
 
-
-![Picture1]()
 
 
 ```R
