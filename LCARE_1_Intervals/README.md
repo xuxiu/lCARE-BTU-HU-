@@ -6,7 +6,7 @@
 
 ```yaml
 
-Name of QuantLet: LCARE_Intervals
+Name of QuantLet: LCARE_1_Intervals
 
 Published in: LCARE
 

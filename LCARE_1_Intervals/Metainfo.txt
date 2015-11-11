@@ -1,5 +1,5 @@
 
-Name of Quantlet: LCARE_Intervals
+Name of Quantlet: LCARE_1_Intervals
 
 Published in: LCARE
 
