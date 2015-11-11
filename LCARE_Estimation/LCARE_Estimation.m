@@ -3,8 +3,7 @@
 % ---------------------------------------------------------------------
 % Quantlet:     LCARE_Estimation
 % ---------------------------------------------------------------------
-% Description:  LCARE_Estimation estimates the parameters of the CARE 
-%               model
+% Description:  Estimates the parameters of the CARE model
 % ---------------------------------------------------------------------
 % Usage:        LCARE_Estimation(y, tau)
 % ---------------------------------------------------------------------
