@@ -38,10 +38,10 @@ Lk_Thl = zeros(K - 1, V, K - 1);
 for v = 1 : 1 : V
   for j = 1 : 1 : K - 1
     for k = j : 1 : K - 1
-      Lk_Thk(k, v, j) = LCARE_Estimation_loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau);
-      Lk_Th(k, v, j)  = LCARE_Loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau, Theta);
-      Lk_Thl(k, v, j) = LCARE_Loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau, ...
-                        LCARE_Estimation_Theta(CARE_yv(CARE_Intervals(j, 7) : end, v), tau));
+        Lk_Thk(k, v, j) = LCARE_Estimation_Loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau);
+        Lk_Th(k, v, j)  = LCARE_Loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau, Theta);
+        Lk_Thl(k, v, j) = LCARE_Loglik(CARE_yv(CARE_Intervals(k + 1, 7) : end, v), tau, ...
+                          LCARE_Estimation_Theta(CARE_yv(CARE_Intervals(j, 7) : end, v), tau));
     end
   end
 end
