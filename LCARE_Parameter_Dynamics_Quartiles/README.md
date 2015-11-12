@@ -29,8 +29,6 @@ Author: Andrija Mihoci, Xiu Xu
 
 Submitted: Thu, November 12 2015 by Xiu Xu
 
-Datafile: DataIndices.dat
-
 
 ```
 
