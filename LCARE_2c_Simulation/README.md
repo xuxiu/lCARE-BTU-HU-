@@ -21,7 +21,7 @@ Keywords:
 - model   
 
 See also: 
-- LCARE_2c_Simulation
+- LCARE_2b_Simulation
 
 Author: Andrija Mihoci, Xiu Xu
 
