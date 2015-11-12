@@ -1,19 +1,19 @@
 
 ![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Estimate_Rolling_001**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Estimate_Rolling_005**
 
 
 ```yaml
 
-Name of QuantLet : LCARE_Estimate_Rolling_001
+Name of QuantLet : LCARE_Estimate_Rolling_005
 
 Published in : LCARE
 
 Description : 'Estimates the parameters of CARE model with fix
 rolling window for selected indices. Selected rolling window
 lengths: 1 month (20 days), 3 months (60 days), 6 months
-(125 days) and 12 months (250 days) for tau = 0.01.'
+(125 days) and 12 months (250 days) for tau = 0.05.'
 
 Keywords:
 - estimation
@@ -32,7 +32,7 @@ Keywords:
 - ftse100
 
 See also: 
-- LCARE_Estimate_Rolling_005
+- LCARE_Estimate_Rolling_001
 
 Author: Andrija Mihoci, Xiu Xu
 
@@ -42,13 +42,13 @@ Datafile: DataIndices.dat
 
 Input: DataIndices.dat
 
-Output: LCARE_Estimate_Rolling_001.png
+Output: LCARE_Estimate_Rolling_005.png
 
 Example: 'Plots of the second parameter of CARE model with different fixed 
 rolling windows (the second parameter alpha1).'
 ```
 
-![Picture1](LCARE_Estimate_Rolling_001.png)
+![Picture1](LCARE_Estimate_Rolling_005.png)
 
 
 ```R
@@ -61,7 +61,7 @@ data   = load('DataIndices.dat');
 r_DAX  = diff(log(data(:, 1)));        
 r_FTSE = diff(log(data(:, 2)));       
 r_SP   = diff(log(data(:, 3)));       
-tau    = 0.01;                         
+tau    = 0.05;                         
 roll   = [20 60 125 250];
 n      = length(data) - 1;
 first  = 261;                       
@@ -82,7 +82,7 @@ for i = 1 : 1 : length(roll)
  
 end
  
-save tau_001.mat;
+save tau_005.mat;
  
 figure;
 subplot(2, 3, 1); plot(paras_DAX(:, 2), '-b', 'LineWidth', 1.5); title('DAX');
