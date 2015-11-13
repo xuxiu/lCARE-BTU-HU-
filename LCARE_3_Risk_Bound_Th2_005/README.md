@@ -33,6 +33,15 @@ See also:
 Author: Andrija Mihoci, Xiu Xu
 
 Submitted:  Fri, November 13 2015 by Xiu Xu
+
+Datafile : 
+- CARE_Intervals
+- y_t_005_Th2
+
+Output:
+- CARE_RB_Th2_005
+- CARE_risk_bound_Th2_005.mat
+
 ```
 
 

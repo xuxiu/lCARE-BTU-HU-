@@ -1,0 +1,29 @@
+
+Name of Quantlet: LCARE_3_Risk_Bound_Results
+
+Published in: LCARE
+
+Description: 'Summarize the risk bound for different parameter
+constellations and two expectile levels 0.01 and 0.05.'
+
+Keywords:
+- time-series
+- process
+- data
+- basis
+- model   
+- risk
+- parameter
+
+See also: 
+- LCARE_Risk_Bound_Th1_005
+- LCARE_Risk_Bound_Th1_001
+- LCARE_Risk_Bound_Th2_005
+- LCARE_Risk_Bound_Th2_001
+- LCARE_Risk_Bound_Th3_001
+- LCARE_Risk_Bound_Th3_005
+
+Author: Andrija Mihoci, Xiu Xu
+
+Submitted:  Fri, November 13 2015 by Xiu Xu
+
