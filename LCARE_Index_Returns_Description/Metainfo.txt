@@ -1,5 +1,5 @@
 
-Name of Quantlet: LCARE_Index_Returns_Descriptive
+Name of Quantlet: LCARE_Index_Returns_Description
 
 Published in: LCARE
 

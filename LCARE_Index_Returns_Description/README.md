@@ -1,12 +1,12 @@
 
 ![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Index_Returns_Descriptive**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Index_Returns_Description**
 
 
 ```yaml
 
-Name of QuantLet : LCARE_Index_Returns_Descriptive
+Name of QuantLet : LCARE_Index_Returns_Description
 
 Published in : LCARE
 

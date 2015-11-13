@@ -1,12 +1,12 @@
 
 ![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Estimate_Rolling_005**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **LCARE_Estimation_Rolling_005**
 
 
 ```yaml
 
-Name of QuantLet : LCARE_Estimate_Rolling_005
+Name of QuantLet : LCARE_Estimation_Rolling_005
 
 Published in : LCARE
 
@@ -42,13 +42,13 @@ Datafile: DataIndices.dat
 
 Input: DataIndices.dat
 
-Output: LCARE_Estimate_Rolling_005.png
+Output: LCARE_Estimation_Rolling_005.png
 
 Example: 'Plots of the second parameter of CARE model with different fixed 
 rolling windows (the second parameter alpha1).'
 ```
 
-![Picture1](LCARE_Estimate_Rolling_005.png)
+![Picture1](LCARE_Estimation_Rolling_005.png)
 
 
 ```R
