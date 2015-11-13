@@ -86,4 +86,8 @@ Out.Lk_Thk = Lk_Thk;
 Out.Lk_Th  = Lk_Th; 
 Out.Lk_Thl = Lk_Thl;
 save('CARE_RB_Th2_001', 'CARE_RB_Th2_001', '-ascii');
+save('CARE_risk_bound_Th2_001.mat');
+
+
+
 
